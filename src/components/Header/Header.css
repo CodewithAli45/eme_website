@@ -19,11 +19,17 @@
     display: flex;
     justify-content: space-around;
     list-style: none;
+    gap: 5px;
 }
 .navbar li{
-    padding: 10px 20px;
+    padding: 8px 20px;
     cursor: pointer;
     font-size: 20px;
     font-weight: bold;
-    text-decoration: underline;
+    transition: 1s ease-in-out;
+}
+.navbar li:hover{
+    border-radius: 20px;
+    background-color: rgb(113, 135, 247);
+    /* background: radial-gradient(circle, rgb(113, 135, 247) 0%, rgb(236, 97, 125) 100%); */
 }

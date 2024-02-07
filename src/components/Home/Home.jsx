@@ -9,7 +9,7 @@ export default function Home() {
     <div className='container'>
         <Header />
         <Carousel autoPlay // enable auto play
-            interval={2000} // set the interval to 2 seconds
+            interval={4000} // set the interval to 2 seconds
             infiniteLoop // enable infinite loop
             showThumbs={false} // hide the thumbnails
             showStatus={false} // hide the status indicator

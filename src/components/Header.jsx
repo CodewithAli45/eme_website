@@ -1,8 +1,13 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { Link } from 'react-router-dom';
 import './Header.css';
 
 export default function Header() {
+    const [isNavbar, setIsNavbar] = useState(true);
+
+    const toggleNavbar = () => {
+        setIsNavbar(!isNavbar);
+    }
   return (
     <header className="header">
         <div className="header-left">
@@ -14,11 +19,23 @@ export default function Header() {
                 </div>
             </Link>
         </div>
-        <div className="header-right">
-            <Link to="/about" className="nav-link about">About Us</Link>
-            <Link to="/project" className="nav-link projects">Projects</Link>
-            <Link to="/career" className="nav-link careers">Careers</Link>
-            <Link to="/" className="nav-link contacts">Contacts</Link>
+        <div className={`header-right`}>
+            <div className='responsice-menu' onClick={toggleNavbar}>
+                <img src="iconmenu.png" alt="Icon Menu" width='40px' height='30px' />
+            </div>
+            <div className={`nav-links-res ${isNavbar ? 'open' : ''}`}>
+                <Link to="/about" className="nav-link-res about">About Us</Link>
+                <Link to="/project" className="nav-link-res projects">Projects</Link>
+                <Link to="/career" className="nav-link-res careers">Careers</Link>
+                <Link to="/" className="nav-link-res contacts">Contacts</Link>
+            </div>
+
+            <div className="nav-links">
+                <Link to="/about" className="nav-link about">About Us</Link>
+                <Link to="/project" className="nav-link projects">Projects</Link>
+                <Link to="/career" className="nav-link careers">Careers</Link>
+                <Link to="/" className="nav-link contacts">Contacts</Link>
+            </div>
         </div>
     </header>
   )

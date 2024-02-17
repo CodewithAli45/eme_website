@@ -1,0 +1,56 @@
+.header {
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    width: 100%;
+    background-color: aliceblue;
+  }
+  
+  .header-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    width: 70px; 
+    height: 60px; 
+    margin-right: 10px;
+    padding: 5px 0px;
+  }
+  .co-detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+  }
+  
+  .company-name {
+    color: rgb(22, 99, 187);
+    font-size: 28px; 
+    font-style: italic;
+    font-weight: bold;
+  }
+  .co-detail img{
+    width: 43%;
+  }
+  
+  .header-right {
+    display: flex;
+    padding-right: 10px;
+  }
+  
+  .nav-link {
+    color: rgb(36, 5, 5); 
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+.link{
+    text-decoration: none;
+    display: flex;
+}
+  

@@ -24,6 +24,7 @@ export default function Header() {
                 <img src="iconmenu.png" alt="Icon Menu" width='40px' height='30px' />
             </div>
             <div className={`nav-links-res ${isNavbar ? 'open' : ''}`}>
+                <Link to="/" className="nav-link-res contacts">Home</Link>
                 <Link to="/about" className="nav-link-res about">About Us</Link>
                 <Link to="/project" className="nav-link-res projects">Projects</Link>
                 <Link to="/career" className="nav-link-res careers">Careers</Link>
@@ -31,6 +32,7 @@ export default function Header() {
             </div>
 
             <div className="nav-links">
+                <Link to="/" className="nav-link home">Home</Link>
                 <Link to="/about" className="nav-link about">About Us</Link>
                 <Link to="/project" className="nav-link projects">Projects</Link>
                 <Link to="/career" className="nav-link careers">Careers</Link>

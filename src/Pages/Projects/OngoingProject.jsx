@@ -11,7 +11,7 @@ export default function OngoingProject() {
       <Header />
       <div className='project-containers mb-10'>
           <div className="projects-table">
-            <div className='flex bg-dark item-center' >
+            <div className='flex' >
               <img src="/ongoing.svg"  alt="" />
             </div>
             <div className="table flex item-center">

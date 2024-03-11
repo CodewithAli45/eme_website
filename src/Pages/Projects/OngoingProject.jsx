@@ -1,33 +1,18 @@
 import React from 'react'
 import './projects.css';
 import Header from '../../components/Header';
-import completedProject from '../../completedProject.json'
+import ongoingProject from '../../ongoingProject.json'
 import Footers from '../../components/Footer';
 
-const url = "https://google-sheet.onrender.com/google_sheet/getprojects";
-
-export default function CompletedProject() {
-  // const [projects, setProjects] = useState([]);
-  // useEffect(() => {
-  //   fetchProjects()
-  // }, []);
-
-  // const fetchProjects = async() => {
-  //   try {
-  //     const response = await axios.get(url);
-  //     setProjects(response.data.data.projects);
-  //     console.log("Projects are ", response.data.data.projects);
-  //   } catch (error) {
-  //     console.log("Error in fetch projects from database ", error);
-  //   }
-  // }
+export default function OngoingProject() {
+ 
   return (
     <>
       <Header />
       <div className='project-containers mb-10'>
           <div className="projects-table">
             <div className='flex bg-dark item-center' >
-              <img src="/project.svg"  alt="" />
+              <img src="/ongoing.svg"  alt="" />
             </div>
             <div className="table flex item-center">
               <table className="table-containers w-full ">
@@ -39,7 +24,7 @@ export default function CompletedProject() {
                   </tr>
                 </thead>
                 <tbody className='project-body'>
-                  {completedProject.map((item, index) => (
+                  {ongoingProject.map((item, index) => (
                     <tr key={index} className='border-b text-justify'>
                       <td className="px-6 py-4 border"><span className='text-xl font-bold block'>{item.project}</span>  <span className='text-lg text-gray-500 dark:text-gray-400 '>{item.description}</span></td>
                       <td className="px-6 py-4 border text-center text-xl text-gray-600 uppercase">{item.client}</td>

@@ -34,7 +34,13 @@ export default function Header() {
             <div className="nav-links">
                 <Link to="/" className="nav-link home">Home</Link>
                 <Link to="/about" className="nav-link about">About Us</Link>
-                <Link to="/project" className="nav-link projects">Projects</Link>
+                <div className="nav-link projects">
+                    <span>Projects</span>
+                    <div className="dropdown">
+                        <Link to="/ongoing-project" className="dropdown-link">Ongoing</Link>
+                        <Link to="/completed-project" className="dropdown-link">Completed</Link>
+                    </div>
+                </div>
                 <Link to="/career" className="nav-link careers">Careers</Link>
                 <Link to="/" className="nav-link contacts">Contacts</Link>
             </div>

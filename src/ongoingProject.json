@@ -1,0 +1,38 @@
+[
+    {
+        "project": "Rebuilding of Coke Oven Battery No. 2 at RSP",
+        "description": "Civil engineering works for Rebuilding of Coke Oven Battery No. 2 (Quenching System, By-Product Facilities & other Allied Works) at SAIL, RSP, Rourkela.",
+        "client": "Mecon ltd.",
+        "location": "Rourkela, Odisha"
+    },
+    {
+        "project": "Construction of Flyover at IISCO Steel Plant, Burnpur",
+        "description": "Design, Engineering, Constructio, Erection, Inspectio, Testing and Commissioning of Flyover of length 200 mtr. including RE Wall, Road Work, development workon Turnkey Basis",
+        "client": "SAIL IISCO Steel Plant",
+        "location": "Burnpur, west bengal"
+    },
+    {
+        "project": "Civil Work for construction of 132 KV GIS substation",
+        "description": "Supply, Construction including piling work of 132kV GIS (SAIL-Bokaro) Substation, BOKARO Steel Plant for proposed 2000 TPD Oxygen Plant, Bokaro",
+        "client": "siemens ltd.",
+        "location": "Bokaro jharkhand"
+    },
+    {
+        "project": "Construction of Officer Club cum Transit Camp at NCL Singrauli",
+        "description": "Planning, Drawing-Designing & Construction of Officer’s Club Cum Transit Camp and Staff Club with development work for Nehru Shatabdi Chikitsalay (NSC), Jayant NCL, Singrauli (MP) on Turnkey basis at NCL, Singrauli",
+        "client": "northern coalfiels ltd.",
+        "location": "singrauli madhya pradesh"
+    },
+    {
+        "project": "Civil Construction Works of different projects at Dhenkenal Steel Plant, Dhenkenal, Odisha",
+        "description": "Pending",
+        "client": "Rungta Mines Ltd",
+        "location": "Dhenkenal Odisha"
+    },
+    {
+        "project": "Mechanical, Structural and Electrical work for Coal Handling Plant at CCL Konar",
+        "description": "Unloading, Storage, Handling, Fabrication, Erection, Inspection and Testing of all equipments, structural and technological steeel and electrical items, accessories etc. for Coal Handling Plant, CCL Konar, Bokaro",
+        "client": "Hamtek technologies india Pvt. ltd. ",
+        "location": "Bokaro jharkhand"
+    }
+]

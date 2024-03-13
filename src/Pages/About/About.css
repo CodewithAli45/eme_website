@@ -1,0 +1,8 @@
+.about-button{
+    transition: ease-in-out 2s;
+}
+
+.about-button:hover{
+    background: #000;
+    color: white;
+}

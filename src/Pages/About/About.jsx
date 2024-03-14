@@ -7,10 +7,10 @@ export function About() {
   return (
     <>
         <Header />
-        <div className='flex item-center justify-center mt-6'>
-            <div className='flex w-1/2 item-center justify-center border bg-slate-100'>
+        <div className='flex item-center justify-center my-2 mx-32'>
+            <div className='flex container item-center justify-center border bg-slate-100'>
                 <div className='pointer font-bold text-lg text-slate-700 w-full px-10 py-6 flex flex-col items-start gap-6'>
-                    <div className='about-button bg-blue-400 p-2 w-48'>
+                    <div className='about-button bg-blue-400 p-2 w-full'>
                         <button>About Us</button>
                     </div>
                     <div className=' about-button p-2 w-full'>

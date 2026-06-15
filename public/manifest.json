@@ -1,0 +1,25 @@
+{
+  "name": "Electro-Mech Engineers",
+  "short_name": "EME",
+  "description": "Electro-Mech Engineers is a leading Engineering, Procurement, and Construction (EPC) company offering innovative turnkey solutions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#0b0f19",
+  "orientation": "any",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

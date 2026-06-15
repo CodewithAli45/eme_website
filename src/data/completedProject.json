@@ -1,0 +1,69 @@
+[
+    {
+        "project": "Tuyere Stock Repair cum Storage Shed at Blast Furnace BSL",
+        "description": "Supply of all labours, materials (including loading and then transporting, unloading, handling, storing, stacking etc.) tools & tackles, fabrication, erection, inspection, testing, commissioning, stablizing and performance guarantee test, execution of all civil, structural, utility & electrical works for Blast Furnace, SAIL BSL",
+        "client": "SAIL Bokaro Steel Plant",
+        "location": "Bokaro Steel City, Jharkhand"
+    },
+    {
+        "project": "Civil Construction of Blast Furnace Project Unit at SSPL",
+        "description": "Construction of Blast Furnace Proper & Cast House, Hot Blast Stove, Supporting Structure, Gravity Dust Catcher including supply of all machine, tools and materils for SSPL",
+        "client": "Shyam Sel Power Ltd.",
+        "location": "PASCHIM BURDWAN West Bengal"
+    },
+    {
+        "project": "Construction of Bachelor & Married Hostel in Gua Ore Mine Township",
+        "description": "Supply, Transportation, Insurance, Storage, Handling, Dismantling & Removal of Debris, Construction, Erection, Testing, Commissioning, Stabilisation and Demonstration of Performance Guarantee IN GUA ORE MINES TOWNSHIP",
+        "client": "SAIL Raw Material Deposit",
+        "location": "Gua Jharkhand"
+    },
+    {
+        "project": "Civil and Structural Work of 5 MTPA Madhband Coal Washery",
+        "description": "Supply, Construction, Fabrication, Erection and Commissioning of complete Civil & Structural Part of Madhuband NLW Coal Washery (5.0 MTPA) BCCL, Dhanbad On “Turn Key” Basis",
+        "client": "HEC Ltd.",
+        "location": "BCCL Dhandbad Jharkhand"
+    },
+    {
+        "project": "Civil and Structural Work of 7 MTPA Coal Handling Plant at NTPC Dulanga Coal Project, Odisha",
+        "description": "Civil Work (Road Inside Plant, Water Reservoir & Pump House, Boundary Wall, Surge Hopper, DG Room, MCC Room & other Buildings, Transfer House, Belt Conveyors, Crushed Coal Bunker, Coal SILO and Sampling Unit) and Steel Structural Works (1370 MT) upto a height of 60 mtrs",
+        "client": "ACB India Ltd.",
+        "location": "NTPC Dulanga Odisha"
+    },
+    {
+        "project": "Hydraulic Equipment Lab & Storage Area",
+        "description": "Desgin, Engineering, Supply and Execution of Civil, Structural and Electrical Works for Hydraulic Equipment Lab on 'Turnkey Basis' ",
+        "client": "SAIL Bokaro Steel Plant",
+        "location": "Bokaro Steel City, Jharkhand"
+    },
+    {
+        "project": "Electrical Repair Shop Building",
+        "description": "Fabrication, Erection, Painting and Cladding of Steel Structures for Electrical Repair Shop Building of 9th Boiler Project. ",
+        "client": "Bokaro Power Supply Corporation Ltd.",
+        "location": "Bokaro Steel City, Jharkhand"
+    },
+    {
+        "project": "Installation of Cooling Water System for New Turbo Blower No. 8",
+        "description": "Desgin, Engineering, construction of Cooling Tower, Pump House, MCC Room, Control Room, Structural Steel Work, Pipeline Work, Supply and Installation of Pumps, Motors, Electrical Panels, Control Panels, EOT Cranes of 10T capacity, valves etc., and Commissioning of complete system on 'Turnkey Basis' ",
+        "client": "SAIL Bokaro Steel Plant",
+        "location": "Bokaro Steel City, Jharkhand"
+    },
+    {
+        "project": "35 MW CPP Cooling Towers",
+        "description": "Desgin, Engineering, Civil, Construction of RCC Cooling Tower inclusing MS Header with supporting Structure, Erection of Cooling Tower Equipments for 35MW CPP Cooling Tower along with all materials on 'Turnkey Basis' ",
+        "client": "USHA Martin Pvt. Ltd.",
+        "location": "Jamshedpur, Jharkhand"
+    },
+    {
+        "project": "Batching System for Blast Furnace #2",
+        "description": "Desgin, Engineering, Manfucturing, Supply, Erection, Testing & Commissioning of Hopper Weighing System for BF 2 on 'Turnkey Basis' ",
+        "client": "SAIL Bokaro Steel Plant",
+        "location": "Bokaro Steel City, Jharkhand"
+    },
+    {
+        "project": "Coke Screening Facilities for Blast Furnace #4",
+        "description": "Desgin, Engineering, Manfucturing, Supply, Erection, Testing, Commissioning & Demonstration of Performance Guarantee of Coke Screening Facility (Vibro Feeders, Vibrating Screens, Conveying With AC drives & Electrics for Blast Furnace Charging System) for BF 4 on 'Turnkey Basis' ",
+        "client": "SAIL Bokaro Steel Plant",
+        "location": "Bokaro Steel City, Jharkhand"
+    }
+
+]
